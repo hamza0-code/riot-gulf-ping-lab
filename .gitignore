@@ -1,0 +1,7 @@
+# secrets and per-machine state - never commit
+*.key
+*.pem
+*.pub
+*.conf
+network-backup.json
+tune-up-log.txt
