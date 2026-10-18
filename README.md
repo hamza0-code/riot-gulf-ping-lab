@@ -58,6 +58,16 @@ scripts/
 - Using a VPN/relay with VALORANT is not against Riot's rules as of writing, but check your local laws and
   your ISP's terms.
 
+## Author
+
+**[hamza0-code](https://github.com/hamza0-code)**, sole developer
+
+- **Network Performance Researcher:** route and latency analysis, measurement methodology, internet exchange
+  and peering research (PeeringDB, UAE-IX, SAIX), ISP exit and ECMP path discovery
+- **Network Security Engineer:** WireGuard relay design with a Riot-only split tunnel, firewall and NAT rules,
+  SSH key handling, and the privacy/OPSEC review of all published data
+- **Systems Programmer:** PowerShell and Bash tooling, Windows network-stack tuning, cloud-init automation
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
